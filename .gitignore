@@ -1,0 +1,8 @@
+data/*
+!edge/.gitkeep
+!pop/.gitkeep
+!data/grafana/grafana.db
+edge/*
+pop/*
+data/prometheus/*
+.DS_Store/*
